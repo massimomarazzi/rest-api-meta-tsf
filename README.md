@@ -1,8 +1,8 @@
-# rest-api-meta-tsf
+# Rest API Meta for The Seo Framework
 WordPress Plugin export The Seo Framework data into WordPress Rest API posts and pages endpoint under meta.
 
 Usefull if you use Gatsby with WordPress.
-In your `src/templates/post.js` make GraphQl query
+In your `src/templates/post.js` make GraphQL query
   
 ```
 export const query = graphql`
